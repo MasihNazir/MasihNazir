@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MasihNazir
-- 👀 I’m interested in JavaScript, 
-- 🌱 I’m currently learning node.js, react.js
+- the name is mentioned in profile 
+- Coding, family, Advinture 
+
 
 <!---
 MasihNazir/MasihNazir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
